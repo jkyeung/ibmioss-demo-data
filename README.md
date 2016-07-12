@@ -13,7 +13,7 @@ Python 3 with the following packages
 * CONTACT - 100,000 random names/addresses (addresses are not real addresses)
 
 ### Usage
-    python3 build_ibmioss_data <library-name>
+    python3 build_ibmioss_demo_data <library-name>
 
 &lt;library-name&gt; is optional - if not provided the pgm will create a library called IBMIOSS to hold the objects.
 
